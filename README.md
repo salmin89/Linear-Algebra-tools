@@ -20,7 +20,6 @@ Use:
       [0, 3, 1, 2]
     ])
     
-#Usage
   #Adition:
 
     A.add(B);
