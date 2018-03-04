@@ -20,19 +20,19 @@ Use:
       [0, 3, 1, 2]
     ])
     
-  #Adition:
+  # Adition:
 
     A.add(B);
     
-  #Subtraction:
+  # Subtraction:
 
     B.sub(A);
     
-  #Scaler multiplication:
+  # Scaler multiplication:
 
     A.scaler(2);
     A.scaler(-1).add(B.scaler(3));
     
-  #Multiplication:
+  # Multiplication:
 
     A.add(C);    
