@@ -35,4 +35,4 @@ Use:
     
   # Multiplication:
 
-    A.add(C);    
+    A.multiply(C);    
