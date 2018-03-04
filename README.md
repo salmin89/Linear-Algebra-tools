@@ -22,14 +22,18 @@ Use:
     
 #Usage
   #Adition:
-      A.add(B);
+
+    A.add(B);
     
   #Subtraction:
-      B.sub(A);
+
+    B.sub(A);
     
   #Scaler multiplication:
-      A.scaler(2);
-      A.scaler(-1).add(B.scaler(3));
+
+    A.scaler(2);
+    A.scaler(-1).add(B.scaler(3));
     
   #Multiplication:
-      A.add(C);    
+
+    A.add(C);    
